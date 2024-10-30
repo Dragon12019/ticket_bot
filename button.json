@@ -1,0 +1,25 @@
+{
+    "hello": [
+        {
+            "color": "red"
+        },
+        {
+            "name": "hello"
+        },
+        {
+            "log": 1283681229719339040
+        },
+        {
+            "role": 1301265366416101419
+        },
+        {
+            "emoji": "😔"
+        },
+        {
+            "category": 1283681229719339038
+        },
+        {
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1295121220060053584/1301265516681367562/djdjdj.jpg?ex=6723d973&is=672287f3&hm=f50b80830653b52d650998f4c5b3d25bd3a1491fe1a8d4cc2123937694d55df6&"
+        }
+    ]
+}
